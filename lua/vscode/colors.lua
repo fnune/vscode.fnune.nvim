@@ -92,8 +92,8 @@ colors.get_colors = function()
             vscLeftMid = '#D1D1D1',
             vscLeftLight = '#E2E2E2',
 
-            vscPopupFront = '#000000',
-            vscPopupBack = '#E2E2E2',
+            vscPopupFront = '#343434',
+            vscPopupBack = '#E8E8E8',
             vscPopupHighlightBlue = '#0064c1',
             vscPopupHighlightGray = '#767676',
 
@@ -132,7 +132,7 @@ colors.get_colors = function()
             vscFoldBackground = '#D4E9FF',
 
             -- Syntax colors
-            vscGray = '#000000',
+            vscGray = '#BEBEBE',
             vscViolet = '#000080',
             vscBlue = '#0000FF',
             vscDarkBlue = '#007ACC',
@@ -144,7 +144,7 @@ colors.get_colors = function()
             vscOrange = '#C72E0F',
             vscLightRed = '#A31515',
             vscYellowOrange = '#800000',
-            vscYellow = '#795E26',
+            vscYellow = '#B58900',
             vscPink = '#AF00DB',
 
             -- Low contrast with default background
