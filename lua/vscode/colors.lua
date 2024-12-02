@@ -132,7 +132,7 @@ colors.get_colors = function()
             vscFoldBackground = '#D4E9FF',
 
             -- Syntax colors
-            vscGray = '#6E6E6E',
+            vscGray = '#9E9E9E',
             vscViolet = '#000080',
             vscBlue = '#0000FF',
             vscDarkBlue = '#007ACC',
