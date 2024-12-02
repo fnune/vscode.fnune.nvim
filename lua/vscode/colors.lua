@@ -113,7 +113,7 @@ colors.get_colors = function()
             vscDiffGreenDark = '#DBE6C2',
             vscDiffGreenLight = '#EBF1DD',
             vscSearchCurrent = '#A8AC94',
-            vscSearch = '#B85016',
+            vscSearch = '#F8C9AB',
 
             vscGitAdded = '#587c0c',
             vscGitModified = '#895503',
@@ -135,6 +135,9 @@ colors.get_colors = function()
             vscGray = '#9E9E9E',
             vscViolet = '#000080',
             vscBlue = '#0000FF',
+            vscAccentBlue = '#0066CC',
+            vscMediumBlue = '#2B88D8',
+            vscDisabledBlue = '#A0C4E2',
             vscDarkBlue = '#007ACC',
             vscLightBlue = '#0451A5',
             vscGreen = '#008000',
@@ -145,6 +148,7 @@ colors.get_colors = function()
             vscLightRed = '#A31515',
             vscYellowOrange = '#800000',
             vscYellow = '#A37400',
+            vscDarkYellow = '#FFC107',
             vscPink = '#AF00DB',
 
             -- Low contrast with default background
