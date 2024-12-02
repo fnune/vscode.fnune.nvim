@@ -82,9 +82,9 @@ colors.get_colors = function()
         mycolors = {
             vscNone = 'NONE',
             vscFront = '#343434',
-            vscBack = '#FFFFFF',
+            vscBack = '#F3F3F3',
 
-            vscTabCurrent = '#FFFFFF',
+            vscTabCurrent = '#F3F3F3',
             vscTabOther = '#CECECE',
             vscTabOutside = '#E8E8E8',
 
