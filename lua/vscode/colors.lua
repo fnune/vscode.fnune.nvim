@@ -102,8 +102,8 @@ colors.get_colors = function()
             vscSplitThumb = '#D1D1D1',
 
             vscCursorDarkDark = '#D6DDE3',
-            vscCursorDark = '#6F6F6F',
-            vscCursorLight = '#767676',
+            vscCursorDark = '#A0BDD3',
+            vscCursorLight = '#B3CFE8',
             vscSelection = '#B3CFE8',
             vscLineNumber = '#098658',
 
