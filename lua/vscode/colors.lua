@@ -82,26 +82,26 @@ colors.get_colors = function()
         mycolors = {
             vscNone = 'NONE',
             vscFront = '#343434',
-            vscBack = '#F3F3F3',
+            vscBack = '#E8E8E8',
 
-            vscTabCurrent = '#F3F3F3',
-            vscTabOther = '#CECECE',
-            vscTabOutside = '#E8E8E8',
+            vscTabCurrent = '#E8E8E8',
+            vscTabOther = '#CFCFCF',
+            vscTabOutside = '#D9D9D9',
 
-            vscLeftDark = '#C4C4C4',
-            vscLeftMid = '#E5E5E5',
-            vscLeftLight = '#F3F3F3',
+            vscLeftDark = '#B8B8B8',
+            vscLeftMid = '#D1D1D1',
+            vscLeftLight = '#E2E2E2',
 
             vscPopupFront = '#000000',
-            vscPopupBack = '#F3F3F3',
+            vscPopupBack = '#E2E2E2',
             vscPopupHighlightBlue = '#0064c1',
             vscPopupHighlightGray = '#767676',
 
-            vscSplitLight = '#EEEEEE',
-            vscSplitDark = '#DDDDDD',
-            vscSplitThumb = '#DFDFDF',
+            vscSplitLight = '#DDDDDD',
+            vscSplitDark = '#CCCCCC',
+            vscSplitThumb = '#D1D1D1',
 
-            vscCursorDarkDark = '#E5EBF1',
+            vscCursorDarkDark = '#D6DDE3',
             vscCursorDark = '#6F6F6F',
             vscCursorLight = '#767676',
             vscSelection = '#ADD6FF',
@@ -126,10 +126,10 @@ colors.get_colors = function()
             vscGitConflicting = '#ad0707',
             vscGitSubmodule = '#1258a7',
 
-            vscContext = '#D2D2D2',
-            vscContextCurrent = '#929292',
+            vscContext = '#BEBEBE',
+            vscContextCurrent = '#868686',
 
-            vscFoldBackground = '#e6f3ff',
+            vscFoldBackground = '#D4E9FF',
 
             -- Syntax colors
             vscGray = '#000000',
