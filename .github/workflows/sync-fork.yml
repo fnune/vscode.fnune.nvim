@@ -1,0 +1,16 @@
+name: Sync Fork
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily at midnight UTC
+  workflow_dispatch: # Trigger manually via button click
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tgymnich/fork-sync@v1.8
+        with:
+          owner: fnune
+          repo: vscode.fnune.nvim
+          base: main
+          head: main
+          pr_title: Sync changes from upstream
