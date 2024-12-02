@@ -113,7 +113,7 @@ colors.get_colors = function()
             vscDiffGreenDark = '#DBE6C2',
             vscDiffGreenLight = '#EBF1DD',
             vscSearchCurrent = '#A8AC94',
-            vscSearch = '#F8C9AB',
+            vscSearch = '#B85016',
 
             vscGitAdded = '#587c0c',
             vscGitModified = '#895503',
